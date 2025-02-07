@@ -1,0 +1,9 @@
+main_styles.css: Algemene styling van de applicatie.
+accessibility_settings.css: Specifieke stijlen voor dynamische kleuren en WCAG-ondersteuning.
+dynamic_colors.js: Beheert dynamische voor- en achtergrondkleuren.
+form_field_toggle.js: Toont/verbergt velden zoals voogdgegevens.
+form_validation.js: Controleert formulierinvoer vóór verzending.
+admin_dashboard.js: JavaScript voor het real-time overzicht van acties voor beheerders.
+home.html: De hoofdpagina van de site.
+admin_dashboard.html: Dashboard voor beheerders.
+registration_form.html: Registratieformulier voor ervaringsdeskundigen en organisaties.

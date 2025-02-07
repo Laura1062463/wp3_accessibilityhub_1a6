@@ -1,0 +1,3 @@
+database_config.py: Configuratie voor verbinding met SQL-database.
+jwt_config.py: JWT-instellingen (zoals geheime sleutels en tijdslimieten).
+security_config.py: Beveiligingsinstellingen (bijvoorbeeld CORS).

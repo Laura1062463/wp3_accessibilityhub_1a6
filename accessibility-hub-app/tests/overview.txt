@@ -1,0 +1,5 @@
+test_user_routes.py: Tests voor gebruikersroutes in de backend.
+test_data_validation.py: Controleert validatiefuncties.
+test_form_validation.js: Test client-side validatiescript.
+test_dynamic_colors.js: Test script voor dynamische kleurinstellingen.
+test_api_endpoints.py: Controleert de volledige integratie van API's.

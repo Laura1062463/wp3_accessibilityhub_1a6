@@ -1,0 +1,9 @@
+user_model.py: Database-model voor gebruikers, inclusief ervaringsdeskundigen.
+organization_model.py: Database-model voor organisaties.
+guardian_model.py: Model voor voogden/toezichthouders.
+user_routes.py: REST API voor gebruikersbeheer.
+organization_routes.py: Endpoints voor organisaties.
+admin_routes.py: Beheerdersspecifieke API-routes.
+data_validation.py: Validatiefuncties voor invoer, zoals e-mails en leeftijden.
+auth_helper.py: JWT-verificatie en authenticatiebeheer.
+error_handler.py: Geavanceerde foutafhandeling.

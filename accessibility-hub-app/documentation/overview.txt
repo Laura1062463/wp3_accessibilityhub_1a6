@@ -1,0 +1,5 @@
+functional_requirements.md: Functionele eisen van de applicatie.
+technical_architecture.md: Overzicht van architectuur en technologiekeuzes.
+rest_api_documentation.md: Documentatie van de REST API (methoden, parameters, etc.).
+database_erd.png: Diagram van de database-relaties.
+demo_data.sql: SQL-script om demogegevens te laden.

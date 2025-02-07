@@ -1,0 +1,20 @@
+Hoofdbranches:
+main – Voor de stabiele versie van de applicatie.
+dev – Voor alle ontwikkeling, met tussentijdse updates.
+Featurebranches:
+Gebruik één branch per specifieke taak of functionaliteit.
+
+auth – Voor gebruikersauthenticatie.
+dashboard – Voor het beheerdersdashboard.
+registration – Voor het registratieformulier.
+realtime – Voor real-time functionaliteiten (zoals AJAX).
+colors – Voor dynamische kleurinstellingen.
+validation – Voor formuliervalidatie.
+Bugfix branches:
+Als er een fout optreedt:
+
+fix-validation – Oplossen van validatiefouten.
+fix-colors – Kleurvoorkeuren corrigeren.
+Overige branches:
+docs – Voor het bijwerken van documentatie.
+cleanup – Voor algemene opruimwerkzaamheden in de code.
